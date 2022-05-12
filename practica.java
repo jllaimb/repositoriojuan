@@ -9,7 +9,7 @@ public class practica {
 		
 		System.out.println("Hola a todos");
 		
-		
+		int x = hola;
 		
 
 	}
