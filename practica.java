@@ -7,7 +7,7 @@ public class practica {
 		
 		System.out.println("Hola Mundo");
 		
-		System.out.println(Hola a todos);
+		System.out.println("Hola a todos");
 		
 		
 		
