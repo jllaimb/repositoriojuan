@@ -9,7 +9,7 @@ public class practica {
 		
 		System.out.println("Hola a todos");
 		
-                int x = 123;
+                int x = 1237889; //cambios de Juan
 		
 		
 
